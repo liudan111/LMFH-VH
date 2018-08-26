@@ -16,8 +16,11 @@ code/similarity_os.py and code/main.py is used to
  description of datasets
 ---------------
 datasets/dataset I including 71 hosts and 352 viruses which only one specific host genome appeared in the prokaryotic genome database at NCBI[2].
+
 datasets/dataset II including 1075 hosts and 432 viruses which the isolation hosts are all at the species or strain level[2].
+
 datasets/dataset III including 2699 hosts and 820 viruses which is downloaded from RefSeq on 7/25/2015[1].
+
 datasets/onf including onf measures of 352,432 and 820 viruses[2] which are obtained by Jie Ren's tools
 
 Reference and Citation
