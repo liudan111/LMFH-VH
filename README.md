@@ -21,7 +21,7 @@ code/similarity_os.py and code/main.py is used to
 
 the codes of NRLMF ,KBMF,NetLapRLS,BLM-NII ,CMF can refer to codes of Yong et al.https://github.com/stephenliu0423/PyDTI [3].
 
-note:the code is implemented by Python 2.7.9
+Note:the code is implemented by Python 2.7.9
 
  description of datasets
 ---------------
@@ -32,6 +32,8 @@ datasets/dataset II including 1075 hosts and 432 viruses which the isolation hos
 datasets/dataset III including 2699 hosts and 820 viruses which is downloaded from RefSeq on 7/25/2015[1].
 
 datasets/onf including onf measures of 352,432 and 820 viruses which are obtained by Jie Ren's tools [2].
+
+Note: Jie Ren's tools is used to get dissimilarity  between viruses,you should transform to similarity.
 
 Reference and Citation
 ------------
