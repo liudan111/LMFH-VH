@@ -19,7 +19,7 @@ code/dowload_virus.py is used to retrieve the viral genomes from NCBI based on t
 
 code/similarity_os.py and code/main.py is used to
 
-the codes of NRLMF ,KBMF,NetLapRLS,BLM-NII ,CMF can refer to codes of Yong et al. https://github.com/stephenliu0423/PyDTI [3].
+the codes of NRLMF ,KBMF,NetLapRLS,BLM-NII ,CMF can refer to codes of Yong et al.https://github.com/stephenliu0423/PyDTI [3].
 
 note:the code is implemented by Python 2.7.9
 
