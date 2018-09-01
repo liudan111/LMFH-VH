@@ -17,9 +17,9 @@ code/dowload_host_of_virus.py  is used to extract the "isolate host =" or "host"
 
 code/dowload_virus.py is used to retrieve the viral genomes from NCBI based on the accession numbers of viruses
 
-code/similarity_os.py and code/main.py is used to
+code/similarity_os.py and code/main.py are used to calculate Gaussian interaction profile kernel similarity between hosts.
 
-the codes of NRLMF ,KBMF,NetLapRLS,BLM-NII ,CMF can refer to codes of Yong et al.https://github.com/stephenliu0423/PyDTI [3].
+The codes of NRLMF,KBMF,NetLapRLS,BLM-NII ,CMF can refer to codes of Yong et al.https://github.com/stephenliu0423/PyDTI [3].
 
 Note:the code is implemented by Python 2.7.9
 
