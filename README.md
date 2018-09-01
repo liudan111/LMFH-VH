@@ -23,7 +23,7 @@ The codes of NRLMF,KBMF,NetLapRLS,BLM-NII ,CMF can refer to codes of Yong et al.
 
 Note:the code is implemented by Python 2.7.9
 
- description of datasets
+ Description of datasets
 ---------------
 datasets/dataset I including 71 hosts and 352 viruses which only one specific host genome appeared in the prokaryotic genome database at NCBI[2].
 
