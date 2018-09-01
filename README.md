@@ -31,7 +31,7 @@ datasets/dataset II including 1075 hosts and 432 viruses which the isolation hos
 
 datasets/dataset III including 2699 hosts and 820 viruses which is downloaded from RefSeq on 7/25/2015[1].
 
-datasets/onf including onf measures of 352,432 and 820 viruses[2] which are obtained by Jie Ren's tools
+datasets/onf including onf measures of 352,432 and 820 viruses which are obtained by Jie Ren's tools [2].
 
 Reference and Citation
 ------------
@@ -43,6 +43,6 @@ Our Reference
 ------------
 [1]Edwards RA, McNair K, Faust K, Raes J, Dutilh BE, Smith M: Computational approaches to predict bacteriophage–host relationships. FEMS Microbiology Reviews 2016, 40(2):258-272.
 
-[2][Ahlgren, Nathan A., Jie Ren, Yang Young Lu, Jed A. Fuhrman, and Fengzhu Sun. "Alignment-free d2* oligonucleotide frequency dissimilarity measure improves prediction of hosts from metagenomically-derived viral sequences." Nucleic Acids Research (2016): gkw1002.](https://academic.oup.com/nar/article/45/1/39/2605663/Alignment-free-d-2-oligonucleotide-frequency)
+[2]Ahlgren NA, Ren J, Lu YY, Fuhrman JA, Sun F: Alignment-free $d_2^*$ oligonucleotide frequency dissimilarity measure improves prediction of hosts from metagenomically-derived viral sequences. Nucleic Acids Research 2017, 45(1):39-53.
 
 [3]Liu Y, Wu M, Miao C, Zhao P, Li XL: Neighborhood Regularized Logistic Matrix Factorization for Drug-Target Interaction Prediction. PLoS computational biology 2016, 12(2):e1004760.
